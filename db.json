@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "books": [
+      {
+        "name": "Horror",
+        "thumbnail": "https://cdn.hasselblad.com/hasselblad-com/ed27bb18-4938-41d4-9f7c-1508eae0c081_x1d-ii-xcd45p-02-web.jpg?auto=format&q=97"
+      },
+      {
+        "name": "History",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/de/Windows_live_square.JPG"
+      },
+      {
+        "name": "Nature",
+        "thumbnail": "https://cdn.hasselblad.com/hasselblad-com/ed27bb18-4938-41d4-9f7c-1508eae0c081_x1d-ii-xcd45p-02-web.jpg?auto=format&q=97"
+      },
+      {
+        "name": "Sci-Fi",
+        "thumbnail": "https://cdn.hasselblad.com/hasselblad-com/ed27bb18-4938-41d4-9f7c-1508eae0c081_x1d-ii-xcd45p-02-web.jpg?auto=format&q=97"
+      }
+    ],
+    "articles": [
+      {
+        "name": "History",
+        "thumbnail": "https://cdn.hasselblad.com/hasselblad-com/ed27bb18-4938-41d4-9f7c-1508eae0c081_x1d-ii-xcd45p-02-web.jpg?auto=format&q=97"
+      },
+      {
+        "name": "Technology",
+        "thumbnail": "https://cdn.hasselblad.com/hasselblad-com/ed27bb18-4938-41d4-9f7c-1508eae0c081_x1d-ii-xcd45p-02-web.jpg?auto=format&q=97"
+      },
+      {
+        "name": "Health",
+        "thumbnail": "https://cdn.hasselblad.com/hasselblad-com/ed27bb18-4938-41d4-9f7c-1508eae0c081_x1d-ii-xcd45p-02-web.jpg?auto=format&q=97"
+      },
+      {
+        "name": "Lifestyle",
+        "thumbnail": "https://cdn.hasselblad.com/hasselblad-com/ed27bb18-4938-41d4-9f7c-1508eae0c081_x1d-ii-xcd45p-02-web.jpg?auto=format&q=97"
+      },
+      {
+        "name": "Fashion",
+        "thumbnail": "https://cdn.hasselblad.com/hasselblad-com/ed27bb18-4938-41d4-9f7c-1508eae0c081_x1d-ii-xcd45p-02-web.jpg?auto=format&q=97"
+      },
+      {
+        "name": "Politics",
+        "thumbnail": "https://cdn.hasselblad.com/hasselblad-com/ed27bb18-4938-41d4-9f7c-1508eae0c081_x1d-ii-xcd45p-02-web.jpg?auto=format&q=97"
+      }
+    ]
+  },
+  "categories_books": {
+    "History": [
+      "1"
+    ],
+    "Horror": [
+      "1"
+    ],
+    "Sci-Fi": [
+      "1"
+    ],
+    "Nature": [
+      "1"
+    ]
+  },
+  "categories_articles": {
+    "History": [
+      "1"
+    ],
+    "Health": [
+      "1"
+    ],
+    "Lifestyle": [
+      "1"
+    ],
+    "Fashion": [
+      "1"
+    ],
+    "Politics": [
+      "1"
+    ]
+  },
+  "books": [
+    {
+      "id": 1,
+      "title": "Frankestein",
+      "thumbnail": "https://ichef.bbci.co.uk/news/410/cpsprodpb/11A60/production/_99288227_karloff-2.jpg",
+      "content": "https://raw.githubusercontent.com/albertocoderei/bookscontent/master/book_1.txt",
+	  "infoWords": [
+		{
+			"key": "birth",
+			"word": "Birth",
+			"pronunciation": "bɜː(r)θ"
+		}
+	  ]
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Article 1",
+      "thumbnail": "https://ichef.bbci.co.uk/news/410/cpsprodpb/11A60/production/_99288227_karloff-2.jpg",
+      "content": "https://raw.githubusercontent.com/albertocoderei/bookscontent/master/book_1.txt",
+	  "infoWords": [
+		{
+			"key": "birth",
+			"word": "Birth",
+			"pronunciation": "bɜː(r)θ"
+		}
+	  ]
+    }
+  ]
+}
